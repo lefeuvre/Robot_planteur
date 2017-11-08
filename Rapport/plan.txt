@@ -1,0 +1,34 @@
+I. Introduction								-- Mario
+	1. Description du projet	-- garder l'intro actuelle
+	2. Description du terrain	-- croquis terrain, pallage ...
+	3. Description du robot		-- dessins robots
+		a. Decrire rapidemment le fonctionnement du tapis
+		b. Deplacement du robot (rotation roues ...)
+		c. Decrire le mouvement du planteur
+
+II. Besoins								-- Loïc
+	1. Diagramme de contexte
+	2. Diagramme cas d'utilisation
+	3. liste des besoins
+	4. Matrice besoins-besoins
+
+III. Exigences								-- Joris
+	1. Diagramme cas d'utilisation
+	2. Concept du système
+	3. Digrammes de séquence
+	4. Liste des exigences
+	5. Matrices (besoins-exigence ; exigences-cas_utilisation)
+
+IV. Architecture							-- Kévin
+	1. Diagrammes de séquence
+	2. Diagramme de définition de bloc
+	3. Matrice opérations-exigences
+	4. Analyse de l'architecture
+	5. Allocation des opérations
+	6. Diagramme de séquence interne
+	7. Diagramme de bloc interne
+	8. Matrice blocs-exigence
+
+V. Conclusion								-- Loïc
+	difficultés (ne pas entrer dans les détails..)
+	...
